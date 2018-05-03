@@ -1,30 +1,112 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: December 07, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Played around with CSS
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** ...Not a programming language but its still code.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** NA
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: December 08, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Prototyping and making wireframes with CSS & HTML.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** CSS Grid is fun.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: NA
 
 
-### Day 1: June 27, Monday
+### Day 3: December 12, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Focused on HTML and CSS
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** NA
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work:** NA
+
+
+### Day 4: December 14, 2017
+
+**Today's Progress**: Focused more on HTML and CSS
+
+**Thoughts:** NA
+
+**Link(s) to work**: NA
+
+
+### Day 5: December 15, 2017
+
+**Today's Progress**: Started Javascript30.com
+
+**Thoughts:** A little off course on my original challenge but its still code.
+
+**Link(s) to work**: https://github.com/DJFalcon23/JavaScript30
+
+
+### Day 6: December 16, 2017
+
+**Today's Progress**: Worked on some bootstrap aspects of my site, introduced some CSS Grid to a good friend of mine, & dived into some #javascript30. 
+
+**Thoughts:** NA
+
+**Link(s) to work**: https://github.com/DJFalcon23/JavaScript30
+
+
+### Day 7: December 17, 2017
+
+**Today's Progress**: A lot of the same, along with messing around with Git and Brackets
+
+**Thoughts:** NA
+
+**Link(s) to work**: https://github.com/DJFalcon23/JavaScript30
+
+
+### Day 8: December 27, 2017
+
+**Today's Progress**: Took a free 13-part course on CSS Grid at @scrimba_com.
+
+**Thoughts:** NA
+
+**Link(s) to work**: https://scrimba.com/g/gR8PTE
+
+
+### Day 9: December 28, 2017
+
+**Today's Progress**:  still practicing CSS Grid by mostly using what I learned from that course I did in Day8 and making a super basic site with different layouts made with CSS Grid.
+
+**Thoughts:** NA
+
+**Link(s) to work**: https://github.com/DJFalcon23/CSS_Grid_Dojo
+
+
+### Day 10: April 16, 2018
+
+**Today's Progress**: Did an overview of Vue.js, and made some p5.js art. Today I'll probably work on some Vue.js stuff again.
+
+**Thoughts:** NA
+
+**Link(s) to work**: https://vuejs.org/v2/guide/
+
+
+### Day 11 - 15: April 17 - 21, 2018
+
+**Today's Progress**: Went over some Vue.js tut.s and programmed some NeoPixels for a light fest. here in my city. I also started to watched a DevMarketer tut on Vue.js  but then I realized that I didn't finish @wesbos's JS30. I did a few "days" of that today #Day15.
+**Thoughts:** NA
+
+**Link(s) to work**: https://dev.to/patrickodacre/vuejs-docs-video-walkthrough---introduction-part-1--2o5n
+https://www.youtube.com/watch?v=6muJcsZrbHk&feature=share
+https://www.youtube.com/watch?v=vzSjlLzGB1A&list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O
+
+
+
+
+
+
+
+
+
+
+
+
+
