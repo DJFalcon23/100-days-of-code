@@ -99,7 +99,22 @@ https://www.youtube.com/watch?v=6muJcsZrbHk&feature=share
 https://www.youtube.com/watch?v=vzSjlLzGB1A&list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O
 
 
+### Day 16 - 25: April 22 - May 1, 2018
 
+**Today's Progress**:  It been 10 days since my last update. I'm bad at this, I know, that way doing it. So, for  #Day16 - #Day25 I mostly worked on my blog site and p5.js. Today I forked the 100DfC repo to help me be more consistent, its better than twitter for me to log my progress.
+
+**Thoughts:** NA
+
+**Link(s) to work**: derekfields.is/blogging
+
+
+### Day 26 - 30: May 2 - May 6, 2018
+
+**Today's Progress**: Started the processe of copying over my Twitter logs to my GitHub fork of 100DoC. Took a break from JS30 and Vue stuff to go through some of FreeCodeCamp's beta stuff.
+
+**Thoughts:** I know I'm jumping around to other stuff a lot and its not helping me with consistency. So, after I finish the current modelu I'm on I'll go back to JS30 
+
+**Link(s) to work**: https://beta.freecodecamp.org/en/portfolio/djfalcon23
 
 
 
