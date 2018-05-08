@@ -112,15 +112,28 @@ https://www.youtube.com/watch?v=vzSjlLzGB1A&list=PLwAKR305CRO_1yAao-8aZiQnBqJeyn
 
 **Today's Progress**: Started the processe of copying over my Twitter logs to my GitHub fork of 100DoC. Took a break from JS30 and Vue stuff to go through some of FreeCodeCamp's beta stuff.
 
-**Thoughts:** I know I'm jumping around to other stuff a lot and its not helping me with consistency. So, after I finish the current modelu I'm on I'll go back to JS30 
+**Thoughts:** I know I'm jumping around to other stuff a lot and its not helping me with consistency. So, after I finish the current module I'm on I'll go back to JS30 
 
 **Link(s) to work**: https://beta.freecodecamp.org/en/portfolio/djfalcon23
 
 
+### Day 31: May 7, 2018
+
+**Today's Progress**: I'm still workng on FreeCodeCamp's beta stuff.
+
+**Thoughts:** I went to a freecodecamp meet up and talk about resumes with some the people there. I'm trying redo my resume. 
+
+**Link(s) to work**: https://beta.freecodecamp.org/en/portfolio/djfalcon23
 
 
+### Day 31: May 8, 2018
 
+**Today's Progress**: Finished up the FreeCodeCamp module, now back to JS30. I did some arduino programming too. 
 
+**Thoughts:** I went to a Ruby on Rails meet up.
+
+**Link(s) to work**: https://beta.freecodecamp.org/en/portfolio/djfalcon23
+https://www.meetup.com/bmore-on-rails/events/249790322/
 
 
 
