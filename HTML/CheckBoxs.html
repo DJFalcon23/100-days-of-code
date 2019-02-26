@@ -1,0 +1,55 @@
+<h1>Hello World</h1>
+<h2>CatPhotoApp</h2>
+<!-- h2 tags are used for subheadings, along with other heading tags. -->
+<main>
+    <img src="https://bit.ly/fcc-relaxing-cat" alt="cat">
+    <a href="#footer">Jump to Bottom</a>
+    <!-- Internal links to jump to different sections within a webpage -->
+    <!-- Anchor elements to link to content outside of your web page, they need a destination web address called an href attribute. -->
+    <!-- img tags are used for images,they are self closing and must contain an scr and alt attribute. The src attribute is used to point the images URL and the alt is for text for screen reades. -->
+<p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+<!-- p tags are used for paragraoh elements  -->
+<!-- lorem ipsum text as placeholder text, its randomly scraped from a famous passage by Cicero Ancient Rome -->
+<!-- comments use opening breckets !-- then -- closing brackets -->
+<p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+<ul>
+    <li>Orange Cat</li>
+    <li>Black Cat</li>
+    <li>Grey Cat</li>
+</ul>
+<ol>
+    <li>Milk</li>
+    <li>Nip</li>
+    <li>Water</li>
+</ol>
+<!-- List can be unordered with the <ul> tags and ordered with the <ol>, all items must be in an item tag. -->
+<form action="/submit-cat-photo">
+    <input type="text" placeholder="cat photo URL" required>
+    <!-- The required attribute makes the form unsubmitable unless the field is filled out  -->
+    <!-- Text input fields can have placeholder text -->
+    <!-- input tags are self closing -->
+    <button type="submit">This button submits the form</button>
+    <!-- The submit button actives the action attribute in the form tag. -->
+    <label for="indoor">
+        <input id="indoor" type="radio" name="indoor-outdoor">Indoor
+    </label>
+    <label for="Outdoor">
+        <input id="Outdoor" type="radio" name="indoor-outdoor">Outdoor
+    </label>
+    <!-- Radio buttons are used for when there are multiple options but only one should be selected. -->
+    <label for="loving">
+        <input id="loving" type="checkbox" name="personality"> Loving
+    </label>
+    <label for="silly">
+            <input id="silly" type="checkbox" name="personality"> Silly
+    </label>
+    <label for="smelly">
+            <input id="smelly" type="checkbox" name="personality"> Smelly
+    </label>
+    <!-- Checkboxes are used for when there are multiple options and more than one can be selected. -->    
+</form>
+<!-- Form elements are used to sumbit data -->
+</main>
+<!-- Descriptive or semantic HTML tags are a part of HTML5, they are goood SEO and Accessibility -->
+<footer id="#footer">Cat copyright</footer>
+
